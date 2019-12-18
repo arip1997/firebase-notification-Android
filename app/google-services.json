@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "435409886569",
+    "firebase_url": "https://notifikasi-message-service.firebaseio.com",
+    "project_id": "notifikasi-message-service",
+    "storage_bucket": "notifikasi-message-service.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:435409886569:android:43b2e760e71dc5604071f8",
+        "android_client_info": {
+          "package_name": "com.arif.firebasenotif"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "435409886569-aaua0rq33so19rqtn0a5pdn1q00kd3mn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.arif.firebasenotif",
+            "certificate_hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+          }
+        },
+        {
+          "client_id": "435409886569-6cp46ddgj6n05q2vea7gjd398e94nc3r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsNCgNBwMjI-O4F0w8xNnhBCpXp8U8CAc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "435409886569-6cp46ddgj6n05q2vea7gjd398e94nc3r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
